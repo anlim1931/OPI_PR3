@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Содержимое для ветки feature_merge_conflict1
-=======
 Новое содержимое для с тем же именем только для ветки feature_merge_conflict2
->>>>>>> feature_merge_conflict2
+
